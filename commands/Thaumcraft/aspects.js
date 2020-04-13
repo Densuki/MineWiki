@@ -10,7 +10,7 @@ module.exports = {
 
     run: async (client, message, args) => {
         
-                if (!message.member.roles.some(r => ["Linked"].includes(r.name)))
+        if (!message.member.roles.some(r => ["Linked"].includes(r.name)))
           return message
             .reply(
               "Você não tem as permissões necessárias para usar este comando."
