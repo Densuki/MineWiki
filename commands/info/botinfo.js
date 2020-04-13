@@ -46,7 +46,7 @@ module.exports = {
             `, true
             )
             //**> Estar no total de:** [] Servidores
-        "Sou um BOT de uso **privado**.\nUm de meus usos é para jogos, sendo um deles exclusivamente para **Minecraft**.\nFui criado por **Densuki**, afim de ajudar algumas das comunidades deste jogo em questão. Algumas pessoas ajudaram e colaboraram para minha criação, logo os créditos não são apenas para meu criador - programador - Densuki, como também para o seu clã/grupo/associação (nome no rodapé).\nEspero ser útil a vocês!")
+        "Sou um BOT de uso **privado**.\nUm de meus usos é para jogos, sendo um deles exclusivamente para **Minecraft**.\nFui criado por **Densuki**, afim de ajudar algumas das comunidades deste jogo em questão. Algumas pessoas ajudaram e colaboraram para minha criação, logo os créditos não são apenas para meu criador - programador - Densuki, como também para o seu clã/grupo/associação (nome no rodapé).\nEspero ser útil a vocês!"
             .setImage('attachment://warians.png')
             //**> 📅 Criado em:** no dia ${dateFormat(Data, "dd/mm/yyyy")} às ${dateFormat(Data, "HH:MM:ss")}
 
