@@ -174,7 +174,7 @@ module.exports = {
         .addField('**> Perditio + Praecantatio\n = Vitium**', `${Perditio} + ${Praecantatio} = ${Vitium}`, true) 
         .addBlankField()
         .setTimestamp()
-        .setFooter('WariansForce! and Dollars • © Todos os direitos reservados.X', logo),
+        .setFooter('WariansForce! and Dollars • © Todos os direitos reservados.', logo),
 
         Page5 = new RichEmbed()
         .setAuthor("Thaumcraft 4")
